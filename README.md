@@ -16,11 +16,11 @@ This project is an interactive dice game built using JavaScript. Click the **"Ro
 ## 📂 How to Run the Project
 ### 1️⃣ Clone the Repository:
 ```bash
-git clone https://github.com/your-username/dicee-game.git
+git clone https://github.com/your-username/dicee-challenge.git
 ```
 ### 2️⃣ Navigate to the Project Folder:
 ```bash
-cd Dicee-Game
+cd Dicee-Challenge
 ```
 ### 3️⃣ Open `index.html` in a Browser
 Simply open the `index.html` file in your web browser to run the game.

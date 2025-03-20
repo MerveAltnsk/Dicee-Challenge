@@ -6,7 +6,7 @@ var dice  = "images/dice" + randomNumber1 + ".png"; //     images/dice1.png - im
 
 document.querySelector(".img1").src = dice; //change dice image on first div
 
-
+  
 
 
 //generate a random number between 1 and 6 for the second dice
