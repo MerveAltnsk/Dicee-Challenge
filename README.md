@@ -32,7 +32,7 @@ Simply open the `index.html` file in your web browser to run the game.
 4️⃣ **Click the button again to play another round!** 🔄
 
 ## 📷 Screenshot
-🖼️ ![Image](https://github.com/user-attachments/assets/2b3e4a01-2a5e-4c49-bd66-d04deeb057b6)
+🖼️ ![Image](https://github.com/user-attachments/assets/fae1c4fd-120b-4ab6-843d-9b0a2186dc39)
 
 ## 📜 License
 This project is open-source and free to use by anyone. 🎲
